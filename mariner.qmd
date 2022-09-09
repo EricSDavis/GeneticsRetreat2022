@@ -1,0 +1,53 @@
+---
+format:
+  revealjs:
+    incremental: true
+    transition: none
+    theme: css/custom.scss
+    slide-number: true
+    logo: images/bcb_logo.png
+    footer: <https://github.com/EricSDavis/mariner>
+    chalkboard: true
+editor: source
+editor_options: 
+  chunk_output_type: console
+---
+
+## {auto-animate=true}
+
+<div class="header">
+  <img src="images/mariner_no_text_cropped.png" />
+  <h1>Mariner</h1>
+<div>
+
+::: {.subheader .absolute left=40% top=65%}
+Genetics Retreat
+
+Eric Davis
+
+Phanstiel Lab
+
+09/15/2022
+:::
+
+## {auto-animate=true}
+
+<div class="header">
+  <img src="images/mariner_no_text_cropped.png" />
+  <h1 style="top:0px;margin-bottom:0px;color:#ff9865;">Mariner</h1>
+  <h4>"Explore the Hi-C's"</h4>
+<div>
+
+::: {.subheader .absolute left=40% top=65%}
+Genetics Retreat
+
+Eric Davis
+
+Phanstiel Lab
+
+09/15/2022
+:::
+
+## {.middle .center}
+
+![](images/mariner_03.png){width=60%}

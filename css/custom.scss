@@ -1,0 +1,62 @@
+/*-- scss:defaults --*/
+
+$presentation-font-size-root: 35px;
+$presentation-heading-color: #44548a;
+$presentation-title-slide-text-align: center;
+
+/*-- scss:rules --*/
+
+.header {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-top: 25%;
+    padding-left: 25%;
+}
+
+.header img {
+  float: left;
+  height: 150px;
+}
+
+.header h1 {
+  position: relative;
+  top: 38px;
+  left: 10px;
+}
+
+.header h4 {
+  position: relative;
+  left: 10px;
+  font-style: italic;
+  color: #786898;
+}
+
+.subheader {
+    text-align: center;
+    font-style: italic;
+    font-size: 22pt;
+}
+
+.smallHeading h3 {
+  font-size: 24pt;
+}
+
+strong {
+  color: #786898;
+}
+
+.heading-ul ul {
+  margin-left: 75px;
+}
+
+.heading-ul h4 {
+  color: #786898;
+}
+
+.middle {
+  text-align: center;
+}
